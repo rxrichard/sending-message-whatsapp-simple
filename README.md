@@ -1,2 +1,5 @@
 # sending-message-whatsapp-simple
-Simple sending message whatsapp to list number
+Send message in a simple way to whatsapp list of people
+
+#Necessario utilizar o Chromedriver compativel com a sua versão de Chrome 
+https://chromedriver.chromium.org/downloads
